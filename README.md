@@ -1,9 +1,5 @@
 #Ecommerce-servlet-hibernate
-Basic Ecommerce project which allows adding product using admin login
-Browsing and adding product to cart can be done with/without login
-Product is dynamically fetched from mysql db 
-Java servlet and Hibernate used for backend
-Basic HTML,CSS(bootstrap) and Javascript is used for UI and Cart functionality
+Basic Ecommerce project which allows adding product using admin login. Browsing and adding product to cart can be done with/without login. Product is dynamically fetched from mysql db .Java servlet and Hibernate used for backend. Basic HTML,CSS(bootstrap) and Javascript is used for UI and Cart functionality
 
 Admin Login used to add products-
 
