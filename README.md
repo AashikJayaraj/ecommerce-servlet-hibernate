@@ -11,10 +11,11 @@ Admin Login used to add products-
 
 
 
-Homepage with Product list-
+Homepage with Product list- 
 
-![image](https://user-images.githubusercontent.com/86121542/212356444-b609a5e9-09b9-4ced-a472-f1db0adc08d7.png)
+![image](https://user-images.githubusercontent.com/86121542/212364618-78248d15-99f2-408f-9228-c1f965a50c0a.png)
 
-Cart-
 
-![image](https://user-images.githubusercontent.com/86121542/212356499-a23346cb-0923-4d59-a2d0-997da821669c.png)
+Cart- 
+
+![image](https://user-images.githubusercontent.com/86121542/212364675-72e6973c-d918-4e23-b40c-22c8423a6260.png)
