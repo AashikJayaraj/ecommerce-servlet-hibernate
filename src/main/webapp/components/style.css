@@ -1,0 +1,105 @@
+body{
+	margin : 0px;
+	padding: 0px;
+}
+div.userRegistration {
+	background-color: #0080ff;
+	width : 50%;	
+	margin : auto;
+	text-align : center;
+	border: thick double #32a1ce;
+	border-radius: 25px;
+	margin-top: 100px;
+}
+
+form.userRegistration input,textarea,select{
+	width : 80%;	
+}
+
+nav.standardNavBar ul{
+	margin : 10px;
+	padding-right:10px;
+	list-style-type: none; 
+	text-decoration: none;
+}
+
+
+nav.standardNavBar ul li a{
+	text-decoration: none;
+	padding:5px;
+	color:white;
+}
+
+nav.standardNavBar ul li a:hover{
+	padding : 5px;
+	background-color:#ffd180;
+}
+
+nav.standardNavBar ul.leftNav{
+	float:left;
+}
+
+nav.standardNavBar ul.rightNav{
+	float:right;
+}
+
+nav ul li{
+	display:inline-block;
+}
+
+nav{
+	background-color: #ff6d00;
+	height : 47px;
+	width:100%;
+}
+div.container {
+	margin-top:40px;
+	display : flex;
+}
+div.container div.card{
+	background-color : #fff3e0;
+	width : 30%;
+	margin : 1%;	
+}
+div.container div.card h2, div.container h3{
+	text-align : center;
+}
+
+div.cardImage img{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+div.addNew img{
+	display: block;
+	margin-top:45px;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+div.addNew img:hover{
+	transform: scale(1.17);
+	transition : 0.4s;
+}
+
+div.categoryButton{
+	margin-top : 10px;
+	text-align : center;
+}
+
+div.cartItem{
+	display:inline-block;
+}
+
+div.cart_list ul.populatedList{
+	background-color:blue;
+}
+
+div#cart_list table.table tbody tr th{
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
