@@ -16,6 +16,6 @@ Homepage with Product list-
 ![image](https://user-images.githubusercontent.com/86121542/212364618-78248d15-99f2-408f-9228-c1f965a50c0a.png)
 
 
-Cart- 
+Cart-  
 
-![image](https://user-images.githubusercontent.com/86121542/212364675-72e6973c-d918-4e23-b40c-22c8423a6260.png)
+![image](https://user-images.githubusercontent.com/86121542/212365508-4b975c84-5e24-4418-b10a-45ce08664f98.png)
